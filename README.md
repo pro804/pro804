@@ -42,18 +42,29 @@ Transitioning full-time while maintaining:
 
 ---
 
+
 ### 🛠 Technical Arsenal
 
 **Mobile Development**  
-<img src="https://reactnative.dev/img/header_logo.svg" width="40" title="React Native"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" title="JavaScript"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" width="40" title="Jest">
+<img src="https://reactnative.dev/img/header_logo.svg" width="40" title="React Native"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" title="JavaScript"> 
+<img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" width="40" title="Jest">
+
+**Web Foundations**  
+<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="40" title="HTML5"> 
+<img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" width="40" title="CSS3"> 
+<img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" width="40" title="Sass">
 
 **Backend & Databases**  
- <img src="https://firebase.google.com/static/downloads/brand-guidelines/PNG/logo-logomark.png" 
+<img src="https://firebase.google.com/static/downloads/brand-guidelines/PNG/logo-logomark.png" 
      width="40" 
-     alt="Firebase"><img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" width="40" title="Appwrite"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40" title="SQLite">
+     alt="Firebase">
+<img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" width="40" title="Appwrite"> 
+<img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40" title="SQLite">
 
 **Design & Prototyping**  
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" title="Figma"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="40" title="Illustrator">
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" title="Figma"> 
+<img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="40" title="Illustrator">
 
 ---
 
