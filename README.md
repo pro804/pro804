@@ -1,20 +1,44 @@
-<h1 align="center">👋 Hello World! I'm Gpetsdevapp</h1>
-<h3 align="center">🔧 Mechanical Designer Turning Cross-Platform Developer</h3>
+<h1 align="center">👋 Hello World! I'm George Petsoulis</h1>
+<h3 align="center">⚙️ Mechanical Systems Designer → 📱 React Native Specialist</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB" alt="React Native">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo">
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto&size=24&duration=4000&pause=1000&color=61DAFB&center=true&vCenter=true&width=435&lines=From+CAD+Design+To+Clean+Code;Precision+In+Both+Realms" alt="Typing animation">
 </p>
 
 ---
 
-### 🚀 About My Journey
+### 🚀 Engineering to Code Journey
 
-- 🏭 **Previous Life:** 5+ years in Industrial Mechanical Design (CAD, automation systems, manufacturing workflows)
-- 💻 **New Frontier:** Currently completing Meta's **React Native Specialization** on Coursera
-- 🎯 **Goal 2025:** Transition fully to mobile development while leveraging engineering problem-solving skills
-- 📧 **Reach me:** [petsoulis.appdev@gmail.com](mailto:petsoulis.appdev@gmail.com)
+🔩 **Mechanical Foundation**  
+5+ years designing industrial systems with:
+- CAD/CAM (SolidWorks, AutoCAD)
+- Automation workflows
+- ISO 9001-compliant manufacturing processes
+
+⚛️ **Tech Transformation**  
+Currently bridging disciplines through:
+✅ Meta React Native Certification (Coursera)  
+✅ Modern TypeScript Patterns  
+✅ Firebase & Appwrite Backends
+
+🎯 **2025 Vision**  
+Transitioning full-time while maintaining:
+- Engineering-grade precision in UI/UX  
+- Systems thinking from mechanical workflows  
+- Lean manufacturing principles in CI/CD
+
+---
+
+📬 **Let's Connect**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile) 
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:petsoulis.appdev@gmail.com)
 
 ---
 
