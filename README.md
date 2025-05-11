@@ -39,7 +39,7 @@ Transitioning full-time while maintaining:
 ---
 
 📬 **Let's Connect**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/georgios-petsoulis-02b3ba365/) 
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:petsoulis.appdev@gmail.com)
 
 ---
