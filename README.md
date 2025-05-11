@@ -25,6 +25,7 @@
 
 ⚛️ **Tech Transformation**  
 Currently bridging disciplines through:
+
 ✅ Meta React Native Certification (Coursera)  
 ✅ Modern TypeScript Patterns  
 ✅ Firebase & Appwrite Backends
