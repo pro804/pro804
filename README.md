@@ -12,6 +12,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Roboto&size=24&duration=4000&pause=1000&color=61DAFB&center=true&vCenter=true&width=435&lines=From+CAD+Design+To+Clean+Code;Precision+In+Both+Realms" alt="Typing animation">
 </p>
 
+
 ---
 
 ### 🚀 Engineering to Code Journey
