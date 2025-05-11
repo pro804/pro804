@@ -4,7 +4,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB" alt="React Native">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/Firebase-FFC400-FF9100?style=for-the-badge&logo=firebase&logoColor=ffffff&labelColor=DD2C00" alt="Firebase">
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
 </p>
 
 ---
@@ -24,7 +24,9 @@
 <img src="https://reactnative.dev/img/header_logo.svg" width="40" title="React Native"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" title="JavaScript"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" width="40" title="Jest">
 
 **Backend & Databases**  
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" title="Firebase"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" width="40" title="Appwrite"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40" title="SQLite">
+ <img src="https://firebase.google.com/static/downloads/brand-guidelines/PNG/logo-logomark.png" 
+     width="40" 
+     alt="Firebase"><img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" width="40" title="Appwrite"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40" title="SQLite">
 
 **Design & Prototyping**  
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" title="Figma"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="40" title="Illustrator">
