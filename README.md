@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hello World! I'm George Petsoulis</h1>
-<h3 align="center">⚙️ Mechanical Systems Designer → 📱 React Native Specialist</h3>
+<h3 align="center">⚙️ Mechanical Systems Designer → 📱 Cross-Platform Application Developer</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native">
@@ -31,10 +31,8 @@ Currently bridging disciplines through:
 ✅ Firebase & Appwrite Backends
 
 🎯 **2025 Vision**  
-Transitioning full-time while maintaining:
-- Engineering-grade precision in UI/UX  
-- Systems thinking from mechanical workflows  
-- Lean manufacturing principles in CI/CD
+
+Transitioning full-time from Industrial disighner to Cross-Platform Application Developement.
 
 ---
 
