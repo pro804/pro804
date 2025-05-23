@@ -18,7 +18,7 @@
 ### 🚀 Engineering to Code Journey
 
 🔩 **Mechanical Foundation**  
-5+ years designing industrial systems with:
+6+ years designing industrial systems with:
 - CAD/CAM (SolidWorks, AutoCAD)
 - Automation workflows
 - ISO 9001-compliant manufacturing processes
