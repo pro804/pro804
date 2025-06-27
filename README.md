@@ -72,7 +72,7 @@ Transitioning full-time from Industrial disighner to Cross-Platform Application 
 
 | Course | Badge | Verification |
 |--------|-------|--------------|
-| **React Native** | [![Coursera](https://img.shields.io/badge/React_Native-Expert-61DAFB?logo=react&style=flat-square)](https://www.coursera.org/account/accomplishments/verify/REEG6XRR3PB7) | [Verify](https://www.coursera.org/account/accomplishments/verify/REEG6XRR3PB7) |
+| **React Native Specialization** | [![Coursera](https://img.shields.io/badge/React_Native-Expert-61DAFB?logo=react&style=flat-square)](https://www.coursera.org/account/accomplishments/verify/REEG6XRR3PB7) | [Verify](https://www.coursera.org/account/accomplishments/specialization/UMW923K8PDVH) |
 | **React Basics** | [![Coursera](https://img.shields.io/badge/React_Core-Expert-61DAFB?logo=react&style=flat-square)](https://www.coursera.org/account/accomplishments/verify/D1ENKN7NU6Z0) | [Verify](https://www.coursera.org/account/accomplishments/verify/D1ENKN7NU6Z0) |
 | **Version Control** | [![Git](https://img.shields.io/badge/Version_Control-Expert-F05032?logo=git&style=flat-square)](https://www.coursera.org/account/accomplishments/verify/3R1M25CRT069) | [Verify](https://www.coursera.org/account/accomplishments/verify/3R1M25CRT069) |
 | **Mobile Dev Intro** | [![Mobile](https://img.shields.io/badge/Mobile_Development-Foundations-000000?logo=android&style=flat-square)](https://www.coursera.org/account/accomplishments/verify/EVKJ1TDHTCYA) | [Verify](https://www.coursera.org/account/accomplishments/verify/EVKJ1TDHTCYA) |
