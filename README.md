@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hello World! I'm George Petsoulis</h1>
-<h3 align="center">🛠️ Industrial Designer → 📱 Junior React Native Developer</h3>
+<h3 align="center">👨‍💻 Junior Frontend Developer | ⚛️ React & React Native | 🌐 Building Cross-Platform Solutions</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native">
