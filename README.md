@@ -35,7 +35,7 @@ Developing e-commerce React application after completing mobile project
 | **[LittleLemonGo](https://github.com/pro804/LittleLemonGo)** | Restaurant management app with authentication, menu browsing, and offline persistence | React Native · TypeScript · SQLite · Context API | `Completed` |
 | **[Read-and-Write-SQLite-App](https://github.com/pro804/Read-and-Write-with-SQLite-App)** | Educational app demonstrating SQLite CRUD operations | React Native · Expo · SQLite · JavaScript | `Completed` |
 | **[LocalePlate](https://github.com/pro804/LocalePlate)** | Local discovery mobile application | React Native · JavaScript · Firebase · Google Maps API | `Active Development` |
-| **E-commerce Web** | Full-featured online shopping experience | React · JavaScript · Stripe API | `Planning Stage` |
+
 
 <details>
 <summary>📌 Key Features (Click to expand)</summary>
