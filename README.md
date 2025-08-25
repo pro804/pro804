@@ -18,9 +18,17 @@
 
 ### 🚀 About Me
 
-Former industrial designer transitioning to frontend development. I bring 7+ years of problem-solving experience from designing precision mechanical systems to building user-friendly web applications.
+**Problem-solving enthusiast** transitioning from 7+ years in industrial engineering design to frontend development. I combine analytical precision with modern web technologies to build practical, user-centered applications.
 
-**Currently:** Building React projects and expanding my frontend skills
+**What I bring to development:**
+- 🏭 **Engineering mindset**: Experience optimizing complex systems with precision
+- ⚛️ **Technical skills**: React, React Native, JavaScript, TypeScript
+- 🎨 **User-focused design**: Creating intuitive interfaces that solve real problems
+- 🔧 **Practical approach**: Building maintainable, scalable frontend solutions
+
+**Currently:** Expanding my React expertise through project-based learning and seeking junior frontend opportunities
+
+**Beyond code:** Based in the Greek countryside, where I find inspiration in simplicity and nature
 
 ---
 ### 🌟 React Projects
@@ -38,9 +46,9 @@ Former industrial designer transitioning to frontend development. I bring 7+ yea
 
 | Project | Description | Technologies | Status |
 |---------|-------------|--------------|--------|
-| **[LittleLemonGo](https://github.com/pro804/LittleLemonGo)** | Restaurant management app with authentication, menu browsing, and offline persistence | React Native · TypeScript · SQLite · Context API 
-| **[Read-and-Write-SQLite-App](https://github.com/pro804/Read-and-Write-with-SQLite-App)** | Educational app demonstrating SQLite CRUD operations | React Native · Expo · SQLite · JavaScript 
-| **[LocalePlate](https://github.com/pro804/LocalePlate)** | Local discovery mobile application | React Native · JavaScript · Firebase |
+| **[LittleLemonGo](https://github.com/pro804/LittleLemonGo)** | Restaurant management app with authentication, menu browsing, and offline persistence | React Native · TypeScript · SQLite · Context API | `Completed` |
+| **[Read-and-Write-SQLite-App](https://github.com/pro804/Read-and-Write-with-SQLite-App)** | Educational app demonstrating SQLite CRUD operations | React Native · Expo · SQLite · JavaScript | `Completed` |
+| **[LocalePlate](https://github.com/pro804/LocalePlate)** | Local discovery mobile application | React Native · JavaScript · Firebase | `Completed` |
 
 
 
