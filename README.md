@@ -2,7 +2,9 @@
 <h3 align="center">👨‍💻 Junior Frontend Developer | ⚛️ React & React Native | 🌐 Building Cross-Platform Solutions</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
   <img src="https://img.shields.io/badge/UI/UX-Design-FF6B6B?style=for-the-badge&logo=figma&logoColor=white" alt="UI/UX">
@@ -14,92 +16,76 @@
 
 ---
 
-### 🚀 Career Transition Journey
+### 🚀 About Me
 
-**Industrial Design Experience**  
-7+ years designing precision mechanical systems for industrial applications. Hands-on experience in metal production design prototypes and developing functional solutions with practical constraints.
+Former industrial designer transitioning to frontend development. I bring 7+ years of problem-solving experience from designing precision mechanical systems to building user-friendly web applications.
 
-**Certified Mobile Developer**  
-`Meta React Native Certified`  
-Building LocalePlate - React Native app with JavaScript 
-
-**Next Milestone**  
-Developing e-commerce React application after completing mobile project
+**Currently:** Building React projects and expanding my frontend skills
 
 ---
-
-### 🏆 Featured Projects
+### 🌟 React Projects
 
 | Project | Description | Technologies | Status |
 |---------|-------------|--------------|--------|
-| **[LittleLemonGo](https://github.com/pro804/LittleLemonGo)** | Restaurant management app with authentication, menu browsing, and offline persistence | React Native · TypeScript · SQLite · Context API | `Completed` |
-| **[Read-and-Write-SQLite-App](https://github.com/pro804/Read-and-Write-with-SQLite-App)** | Educational app demonstrating SQLite CRUD operations | React Native · Expo · SQLite · JavaScript | `Completed` |
-| **[LocalePlate](https://github.com/pro804/LocalePlate)** | Local discovery mobile application | React Native · JavaScript · Firebase · Google Maps API | `Active Development` |
+| **Broadroad** | Landing page for tour company | React, HTML, CSS | `In Progress` |
+| **Portfolio Site** | Personal portfolio website | React, TypeScript | `In Progress` |
+| *More projects coming soon!* | *Check back for updates* |  |  |
 
 
-<details>
-<summary>📌 Key Features (Click to expand)</summary>
+### 📱 Mobile Development Experience
 
-**LittleLemonGo**  
-✅ User Authentication · 🔍 Menu Browsing · 💾 Offline Data · 🔄 Real-time Sync  
-📱 Type-Safe Code · 🧩 Context API · 🎬 Animated UI  
 
-**Read-and-Write-SQLite-App**  
-📚 Educational Focus · 💾 Local Storage · 🔄 CRUD Operations  
-📱 Expo-Based · 👨‍🏫 Beginner-Friendly  
 
-**LocalePlate**  
-🗺️ Location-Based Discovery · 🔥 Firebase Backend · 🔍 Search Functionality  
-📱 Cross-Platform · 📍 Map Integration  
+| Project | Description | Technologies | Status |
+|---------|-------------|--------------|--------|
+| **[LittleLemonGo](https://github.com/pro804/LittleLemonGo)** | Restaurant management app with authentication, menu browsing, and offline persistence | React Native · TypeScript · SQLite · Context API 
+| **[Read-and-Write-SQLite-App](https://github.com/pro804/Read-and-Write-with-SQLite-App)** | Educational app demonstrating SQLite CRUD operations | React Native · Expo · SQLite · JavaScript 
+| **[LocalePlate](https://github.com/pro804/LocalePlate)** | Local discovery mobile application | React Native · JavaScript · Firebase |
 
-**E-commerce Web**  
-🛒 Shopping Cart · 💳 Stripe Payments · 📦 Inventory Management  
-🌐 Responsive Design · 📊 User Dashboard  
 
-</details>
 
----
 
-### 🛠 Technical Proficiencies
+### 🛠 Technical Skills
 
-**Core Development**  
+ 
+**Frontend Development**  
 <div>
-  <img src="https://reactnative.dev/img/header_logo.svg" width="40" title="React Native">
   <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" width="40" title="React">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" title="JavaScript">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" title="TypeScript">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" title="JavaScript">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" title="Next.js">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" title="HTML5">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" title="CSS3">
 </div>
 
-**APIs & Services**  
+**Development Tools**  
 <div>
-  <img src="https://firebase.google.com/static/downloads/brand-guidelines/PNG/logo-logomark.png" width="40" alt="Firebase">
-  <img src="https://www.vectorlogo.zone/logos/google_maps/google_maps-icon.svg" width="40" title="Google Maps API">
-  <img src="https://www.vectorlogo.zone/logos/stripe/stripe-icon.svg" width="40" title="Stripe API">
-</div>
-
-**Design & Workflow**  
-<div>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" title="Figma">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" title="Git">
-  <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" width="40" title="Jest">
+  <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" width="40" title="NPM">
+  <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" width="40" title="Netlify">
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" title="Figma">
 </div>
 
 ---
 
-### 📜 Certifications & Skills
+### 📈 GitHub Stats & Activity
 
-**Meta React Native Specialization**  
-
-- 🎨 **UX/UI Design**: Figma · Wireframing · Usability Testing · UI/UX Research
-- 🗄️ **Working with Data**: Firebase · REST APIs · JSON · Authentication · Data Management
-- 🔀 **Version Control**: Git · GitHub · CLI · Collaborative Development
-- ⚛️ **React Fundamentals**: Components · Props · State · JSX
-- 📱 **React Native**: Navigation · Hooks · Debugging · Best Practices
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pro804&show_icons=true&theme=react" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pro804&layout=compact&theme=react" alt="Top Languages">
+</p>
 
 ---
+
 
 ### 🤝 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/georgios-petsoulis-02b3ba365/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:petsoulis.appdev@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio-link.com)
+
+<p align="center">
+  <i>Open to entry-level frontend opportunities and learning collaborations!</i>
+</p>
+
 
