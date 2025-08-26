@@ -35,7 +35,7 @@
 
 | Project | Description | Technologies | Status |
 |---------|-------------|--------------|--------|
-| **Broadroad** | Landing page for tour company | React, HTML, CSS | `In Progress` |
+| **[Broadroad](https://github.com/pro804/Backroads-App)** | Landing page for tour company | React, HTML, CSS | `Completed` |
 | **Portfolio Site** | Personal portfolio website | React, TypeScript | `In Progress` |
 | *More projects coming soon!* | *Check back for updates* |  |  |
 
