@@ -35,7 +35,9 @@
 
 | Project | Description | Technologies | Status |
 |---------|-------------|--------------|--------|
-| **[Broadroad](https://github.com/pro804/Backroads-App)** | Landing page for tour company | React, HTML, CSS | `Completed` |
+| **[Broadroad](https://github.com/pro804/Backroads-App)** | Landing page for tour company | React, HTML,JavaScript, CSS | `Completed` |
+| **[Birthday Buddies](https://github.com/pro804/Birthday-Buddy)** |It displays a list of birthdays with the ability to clear them all.| Vite+React,JavaScript,HTM,CSS | `Completed` |
+| **[Tours](https://github.com/pro804/Tours)** |Displays tour information with interactive features for a dynamic user experience.| Vite+React,JavaScript,HTM,CSS,Fetch API| `Completed` |
 | **Portfolio Site** | Personal portfolio website | React, TypeScript | `In Progress` |
 | *More projects coming soon!* | *Check back for updates* |  |  |
 
