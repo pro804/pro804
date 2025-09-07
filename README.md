@@ -3,7 +3,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
@@ -31,15 +31,22 @@
 **Beyond code:** Based in the Greek countryside, where I find inspiration in simplicity and nature
 
 ---
-### 🌟 React Projects
+## 🚀 Featured Projects
 
 | Project | Description | Technologies | Status |
 |---------|-------------|--------------|--------|
-| **[Broadroad](https://github.com/pro804/Backroads-App)** | Landing page for tour company | React, HTML,JavaScript, CSS | `Completed` |
-| **[Birthday Buddies](https://github.com/pro804/Birthday-Buddy)** |It displays a list of birthdays with the ability to clear them all.| Vite+React,JavaScript,HTM,CSS | `Completed` |
-| **[Tours](https://github.com/pro804/Tours)** |Displays tour information with interactive features for a dynamic user experience.| Vite+React,JavaScript,HTM,CSS,Fetch API| `Completed` |
-| **Portfolio Site** | Personal portfolio website | React, TypeScript | `In Progress` |
-| *More projects coming soon!* | *Check back for updates* |  |  |
+| **[Broadroad](https://github.com/pro804/Backroads-App)** | Landing page for tour company | React, HTML, JavaScript, CSS | `Completed` |
+| **[Portfolio Site](https://github.com/pro804/your-portfolio-repo)** | Personal portfolio website | React, TypeScript | `In Progress` |
+| *More featured projects coming soon!* | *Check back for updates* |  |  |
+
+## 💼 Mini Projects & Components
+
+| Project | Description | Technologies | Status |
+|---------|-------------|--------------|--------|
+| **[Question-Accordion-UI](https://github.com/pro804/Question-Accordion-UI)** | Interactive FAQ accordion component with clean toggle functionality | Vite+React, ReactIcons, JavaScript, HTML, CSS | `Completed` |
+| **[Reviews](https://github.com/pro804/Reviews)** | Interactive review carousel displaying customer testimonials | Vite+React, ReactIcons, JavaScript, HTML, CSS | `Completed` |
+| **[Birthday Buddies](https://github.com/pro804/Birthday-Buddy)** | Displays a list of birthdays with clear all functionality | Vite+React, JavaScript, HTML, CSS | `Completed` |
+| **[Tours](https://github.com/pro804/Tours)** | Tour information display with interactive features | Vite+React, JavaScript, HTML, CSS, Fetch API | `Completed` |
 
 
 ### 📱 Mobile Development Experience
@@ -61,9 +68,9 @@
 **Frontend Development**  
 <div>
   <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" width="40" title="React">
+  <img src="https://vitejs.dev/logo.svg" width="40" title="Vite">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" title="TypeScript">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" title="JavaScript">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" title="Next.js">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" title="HTML5">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" title="CSS3">
 </div>
