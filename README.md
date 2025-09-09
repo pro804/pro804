@@ -43,6 +43,7 @@
 
 | Project | Description | Technologies | Status |
 |---------|-------------|--------------|--------|
+| **[Menu-Filter-UI](https://github.com/pro804/Menu-Filter-UI)** | A React practice project featuring a dynamic menu with category filtering functionality | Vite+React,JavaScript, HTML, CSS | `Completed` |
 | **[Question-Accordion-UI](https://github.com/pro804/Question-Accordion-UI)** | Interactive FAQ accordion component with clean toggle functionality | Vite+React, ReactIcons, JavaScript, HTML, CSS | `Completed` |
 | **[Reviews](https://github.com/pro804/Reviews)** | Interactive review carousel displaying customer testimonials | Vite+React, ReactIcons, JavaScript, HTML, CSS | `Completed` |
 | **[Birthday Buddies](https://github.com/pro804/Birthday-Buddy)** | Displays a list of birthdays with clear all functionality | Vite+React, JavaScript, HTML, CSS | `Completed` |
