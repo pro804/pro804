@@ -99,22 +99,23 @@
 
 ### 🤝 Let's Connect
 <p align="center">
-  <a href="https://x.com/GPAppDev"target="_blank">
+  <a href="https://x.com/GPAppDev">
     <img src="https://img.shields.io/badge/Twitter%20X-000000?style=for-the-badge&logo=x&logoColor=1DA1F2" alt="Twitter X">
   </a>
-  <a href="https://www.linkedin.com/in/georgios-petsoulis-02b3ba365/ "target="_blank">
+  <a href="https://www.linkedin.com/in/georgios-petsoulis-02b3ba365/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:petsoulis.appdev@gmail.com" >
+  <a href="mailto:petsoulis.appdev@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://your-portfolio-link.com" target="_blank">
+  <a href="https://your-portfolio-link.com">
     <img src="https://img.shields.io/badge/Portfolio-333333?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio">
   </a>
-  <a href="https://github.com/pro804" target="_blank">
+  <a href="https://github.com/pro804">
     <img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 </p>
+
 
 
 
