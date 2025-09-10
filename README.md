@@ -105,7 +105,7 @@
   <a href="https://www.linkedin.com/in/georgios-petsoulis-02b3ba365/ "target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:petsoulis.appdev@gmail.com" target="_blank">
+  <a href="mailto:petsoulis.appdev@gmail.com" >
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://your-portfolio-link.com" target="_blank">
