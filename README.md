@@ -43,6 +43,7 @@
 
 | Project | Description | Technologies | Status |
 |---------|-------------|--------------|--------|
+| **[Job-Tabs-App](https://github.com/pro804/Job-Tabs-App)** | A React practice project featuring dynamic job information displayed through interactive tabs | Vite+React,React Icons,UUID Library,JavaScript, HTML, CSS | `Completed` |
 | **[Menu-Filter-UI](https://github.com/pro804/Menu-Filter-UI)** | A React practice project featuring a dynamic menu with category filtering functionality | Vite+React,JavaScript, HTML, CSS | `Completed` |
 | **[Question-Accordion-UI](https://github.com/pro804/Question-Accordion-UI)** | Interactive FAQ accordion component with clean toggle functionality | Vite+React, ReactIcons, JavaScript, HTML, CSS | `Completed` |
 | **[Reviews](https://github.com/pro804/Reviews)** | Interactive review carousel displaying customer testimonials | Vite+React, ReactIcons, JavaScript, HTML, CSS | `Completed` |
