@@ -43,7 +43,8 @@
 
 | Project | Description | Technologies | Status |
 |---------|-------------|--------------|--------|
-| **[Lorem-Ipsum-Text-Generator](https://github.com/pro804/Lorem-Ipsum-Text-Generator)** | A React practice project generating customizable Lorem Ipsum placeholder text | Vite+React,Nanoid,Clipboard API,JavaScript, HTML, CSS | `Completed` |
+| **[Color-Palette-Generator](https://github.com/pro804/Color-Palette-Generator)** | A responsive React application for generating beautiful color palettes from any hex color input.  | Vite+React,Nanoid,Clipboard API,JavaScript, HTML, CSS | `Completed` |
+| **[Lorem-Ipsum-Text-Generator](https://github.com/pro804/Lorem-Ipsum-Text-Generator)** | A React practice project generating customizable Lorem Ipsum placeholder text | Vite+React,Nanoid,Clipboard API,React-Toastify,Values.js,JavaScript,CSS | `Completed` |
 | **[Job-Tabs-App](https://github.com/pro804/Job-Tabs-App)** | A React practice project featuring dynamic job information displayed through interactive tabs | Vite+React,React Icons,UUID Library,JavaScript, HTML, CSS | `Completed` |
 | **[Menu-Filter-UI](https://github.com/pro804/Menu-Filter-UI)** | A React practice project featuring a dynamic menu with category filtering functionality | Vite+React,JavaScript, HTML, CSS | `Completed` |
 | **[Question-Accordion-UI](https://github.com/pro804/Question-Accordion-UI)** | Interactive FAQ accordion component with clean toggle functionality | Vite+React, ReactIcons, JavaScript, HTML, CSS | `Completed` |
