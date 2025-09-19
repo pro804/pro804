@@ -43,6 +43,7 @@
 
 | Project | Description | Technologies | Status |
 |---------|-------------|--------------|--------|
+| **[React Navbar Component](https://github.com/pro804/React-Navbar-Component)** | A modern, responsive navigation bar component built with React | Vite+React,React Icons,JavaScript,CSS | `Completed` |
 | **[Grocery-Bud](https://github.com/pro804/Grocery-Bud)** | A sleek and intuitive grocery list manager built with React | Vite+React,Local Storage,Nanoid,React-Toastify,JavaScript,CSS | `Completed` |
 | **[Color-Palette-Generator](https://github.com/pro804/Color-Palette-Generator)** | A responsive React application for generating beautiful color palettes from any hex color input.  | Vite+React,Nanoid,Clipboard API,JavaScript, HTML, CSS | `Completed` |
 | **[Lorem-Ipsum-Text-Generator](https://github.com/pro804/Lorem-Ipsum-Text-Generator)** | A React practice project generating customizable Lorem Ipsum placeholder text | Vite+React,Nanoid,Clipboard API,React-Toastify,Values.js,JavaScript,CSS | `Completed` |
