@@ -43,6 +43,7 @@
 
 | Project | Description | Technologies | Status |
 |---------|-------------|--------------|--------|
+| **[React Sidebar&Modal](https://github.com/pro804/React-Sidebar-Modal)** | A responsive React App showcase featuring an animated sidebar and a modal with an integrated testimonial carousel.| Vite+React,React Context,React Icons,React Slick,JavaScript,CSS | `Completed` |
 | **[React Navbar Component](https://github.com/pro804/React-Navbar-Component)** | A modern, responsive navigation bar component built with React | Vite+React,React Icons,JavaScript,CSS | `Completed` |
 | **[Grocery-Bud](https://github.com/pro804/Grocery-Bud)** | A sleek and intuitive grocery list manager built with React | Vite+React,Local Storage,Nanoid,React-Toastify,JavaScript,CSS | `Completed` |
 | **[Color-Palette-Generator](https://github.com/pro804/Color-Palette-Generator)** | A responsive React application for generating beautiful color palettes from any hex color input.  | Vite+React,Nanoid,Clipboard API,JavaScript, HTML, CSS | `Completed` |
@@ -105,8 +106,8 @@
 ### 🤝 Let's Connect
 <div align='center'>
   
-[![Twitter](https://img.shields.io/badge/Twitter%20X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/GPAppDev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/georgios-petsoulis-02b3ba365/)
+[![Twitter](https://img.shields.io/badge/Twitter%20X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/GPAppDev)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:petsoulis.appdev@gmail.com)
 
 </div>
