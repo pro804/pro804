@@ -43,6 +43,7 @@
 
 | Project | Description | Technologies | Status |
 |---------|-------------|--------------|--------|
+| **[React-Cart-App](https://github.com/pro804/React-Cart-App)** | A React cart application demonstrating advanced state management with useReducer and Map data structure. Focus on complex state transitions and performance optimization.| Vite+React,useReducer,Context API,Map API,Fetch API,React Icons,JavaScript,CSS | `Completed` |
 | **[React-Dynamic-Navbar](https://github.com/pro804/React-Dynamic-Navbar)** | A responsive React App showcase a responsive navigation bar with dynamic submenus, built with React and Context API.| Vite+React,Context API,React Icons,Nanoid,JavaScript,CSS | `Completed` |
 | **[React Sidebar&Modal](https://github.com/pro804/React-Sidebar-Modal)** | A responsive React App showcase featuring an animated sidebar and a modal with an integrated testimonial carousel.| Vite+React,React Context API,React Icons,React Slick,JavaScript,CSS | `Completed` |
 | **[React Navbar Component](https://github.com/pro804/React-Navbar-Component)** | A modern, responsive navigation bar component built with React | Vite+React,React Icons,JavaScript,CSS | `Completed` |
