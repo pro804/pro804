@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello World! I'm George Petsoulis</h1>
+<h1 align="center">👋 Hello World! I'm Georgios Petsoulis</h1>
 <h3 align="center">👨‍💻 Junior Frontend Developer | ⚛️ React & React Native | 🌐 Building Cross-Platform Solutions</h3>
 
 <p align="center">
