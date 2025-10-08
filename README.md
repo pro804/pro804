@@ -112,6 +112,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/georgios-petsoulis-02b3ba365/)
 [![Twitter](https://img.shields.io/badge/Twitter%20X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/GPAppDev)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:petsoulis.appdev@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio%20-029ab1?style=for-the-badge&logo=G.P&logoColor=white)](https://gp-dev-portfolio.netlify.app/)
 
 </div>
 
