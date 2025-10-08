@@ -36,7 +36,7 @@
 | Project | Description | Technologies | Status |
 |---------|-------------|--------------|--------|
 | **[Broadroad](https://github.com/pro804/Backroads-App)** | Landing page for tour company | React, HTML, JavaScript, CSS | `Completed` |
-| **[Portfolio Site](https://github.com/pro804/your-portfolio-repo)** | Personal portfolio website | React, TypeScript | `In Progress` |
+| **[Dev Portfolio Site](https://github.com/pro804/Dev-Portfolio)** | Personal portfolio website | Vite+React,Motion,React Icons,TypeScript,Tailwind CSS| `Completed` |
 | *More featured projects coming soon!* | *Check back for updates* |  |  |
 
 ## 💼 Mini Projects & Components
