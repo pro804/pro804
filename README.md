@@ -56,7 +56,29 @@ I combine **analytical thinking** with a passion for design to build responsive,
 | **[React-Dynamic-Navbar](https://github.com/pro804/React-Dynamic-Navbar)** | Responsive navbar with dynamic submenus, built using Context API and modular components. | React · Context API · JavaScript · CSS | ✅ `Completed` |
 | **[React Sidebar & Modal](https://github.com/pro804/React-Sidebar-Modal)** | Interactive sidebar and modal system with transitions and carousel elements. | React · Context API · JavaScript · React Slick · CSS | ✅ `Completed` |
 
+<details>
+  <summary><b>📂 View More Mini Projects</b></summary>
+
+  <br/>
+
+  | Project | Description | Technologies | Status |
+  |----------|-------------|--------------|--------|
+  | **[Grocery-Bud](https://github.com/pro804/Grocery-Bud)** | Sleek and intuitive grocery list manager built with React. | React · Local Storage · JavaScript · CSS | ✅ `Completed` |
+  | **[Color-Palette-Generator](https://github.com/pro804/Color-Palette-Generator)** | Generate color palettes from any hex input. | React · JavaScript · HTML · CSS | ✅ `Completed` |
+  | **[Lorem-Ipsum-Text-Generator](https://github.com/pro804/Lorem-Ipsum-Text-Generator)** | Generates customizable Lorem Ipsum placeholder text. | React · JavaScript · CSS | ✅ `Completed` |
+  | **[Job-Tabs-App](https://github.com/pro804/Job-Tabs-App)** | Dynamic job information displayed via interactive tabs. | React · JavaScript · CSS | ✅ `Completed` |
+  | **[Menu-Filter-UI](https://github.com/pro804/Menu-Filter-UI)** | Dynamic menu with category filtering. | React · JavaScript · CSS | ✅ `Completed` |
+  | **[Question-Accordion-UI](https://github.com/pro804/Question-Accordion-UI)** | Interactive FAQ accordion with toggle functionality. | React · JavaScript · CSS | ✅ `Completed` |
+  | **[Reviews](https://github.com/pro804/Reviews)** | Review carousel displaying customer testimonials. | React · JavaScript · CSS | ✅ `Completed` |
+  | **[Birthday Buddies](https://github.com/pro804/Birthday-Buddy)** | Birthday list manager with “clear all” functionality. | React · JavaScript · CSS | ✅ `Completed` |
+  | **[Tours](https://github.com/pro804/Tours)** | Tour information display with interactive features. | React · JavaScript · Fetch API · CSS | ✅ `Completed` |
+
+  <br/>
+  💡 *This section includes additional practice projects built during my learning journey.*
+</details>
+
 > 💡 *Explore more small React UI components and experiments on my [GitHub profile](https://github.com/pro804).*
+
 
 
 ---
