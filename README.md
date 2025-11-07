@@ -40,6 +40,7 @@ I combine **analytical thinking** with a passion for design to build responsive,
 | Project | Description | Technologies | Status |
 |----------|-------------|---------------|---------|
 | **[🛍️ Next.js E-Commerce Store](https://github.com/pro804/nextjs-ecommerce-store)** | A full-stack e-commerce platform built with Next.js 14 (App Router). Includes an admin dashboard, product CRUD, Supabase image uploads, Clerk authentication, and Stripe Embedded Checkout. | Next.js · TypeScript · Prisma · Supabase · Clerk · Stripe · TailwindCSS · shadcn/ui · Zod · Vercel | 🚀 `Flagship Project` |
+| **[🔍 GitHub GraphQL Explorer](https://github.com/pro804/github-graphql-explorer)** | A portfolio learning app to explore GitHub profiles using GraphQL and Apollo Client. Displays repositories, followers, and language stats with Recharts and shadcn/ui. | React · TypeScript · GraphQL · Apollo Client · TailwindCSS · shadcn/ui · Recharts · Vite | ✅ `Completed` |
 | **[Broadroad](https://github.com/pro804/Backroads-App)** | Responsive landing page for a tour company. Focus on layout, component reuse, and styling consistency. | React · JavaScript · HTML · CSS | ✅ `Completed` |
 | **[Dev Portfolio Site](https://github.com/pro804/Dev-Portfolio)** | Personal portfolio website with smooth motion effects and a modern, responsive UI. | React · Vite · TypeScript · TailwindCSS · Framer Motion | ✅ `Completed` |
 | *More featured projects coming soon!* | *Check back for updates* |  |  |
