@@ -1,34 +1,31 @@
-<h1 align="center">👋 Hello! I'm Georgios Petsoulis</h1>
-<h3 align="center">Aspiring Junior .NET Back-End Developer | C# • ASP.NET Core • SQL • Testing • Docker/CI</h3>
+<h1 align="center">Hi, I’m Georgios Petsoulis 👋</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">
+  I build web projects from scratch and improve by shipping consistently.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Responsive%20Design-0EA5E9?style=for-the-badge" alt="Responsive Design" />
 </p>
 
 ---
-### 🎯 Current Focus 
-- **C# foundations** (OOP, interfaces, LINQ, async/await, clean code)
-- **SQL Server & T-SQL** (joins, grouping, indexes/performance basics)
-- **ASP.NET Core Web API + EF Core** (CRUD, validation, error handling, auth basics)
-- **Testing** (unit + integration)
-- **Docker + CI** (compose + build/test pipeline)
 
+## Current focus
+- freeCodeCamp — **Responsive Web Design Certification**
+- **Semantic HTML**, **CSS** (Flexbox/Grid), **mobile-first** layouts
+- Accessibility basics (labels, landmarks, keyboard navigation)
 
+## Certification projects (built by me)
+- Tribute Page — *(link coming soon)*
+- Survey Form — *(link coming soon)*
+- Product Landing Page — *(link coming soon)*
+- Technical Documentation Page — *(link coming soon)*
+- Personal Portfolio — *(link coming soon)*
 
+---
 
-### 🤝 Let's Connect
-
-<div align='center'>
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/georgios-petsoulis-02b3ba365/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:petsoulis.appdev@gmail.com)
-
-
-</div>
-
-<p align="center">
-  <i>Open to entry-level .NET back-end roles and junior software developer opportunities.</i>
-</p>
-
-
-
+## Links
+- LinkedIn: https://www.linkedin.com/in/georgios-petsoulis-02b3ba365/
+- Email: mailto:petsoulis.appdev@gmail.com
